@@ -26,7 +26,7 @@ const reviews = [
     name: 'Vitor Queiroz',
     job: 'web developer',
     img: './img/vitofeio.jfif',
-    text: ' Vitor vitor vitor vitor Vitor vitor vitor vitorVitor vitor vitor vitorVitor vitor vitor vitorVitor vitor vitor vitorVitor vitor vitor vitorVitor vitor vitor vitor'
+    text: ' Vitor, ama javascript e atualmente atua como Frontend engineer com React como framework e typescript. Já foi fullstack trabalhando com Node pro backend e mobile com React native'
   }
 ]
 const img = document.getElementById('person-img')
