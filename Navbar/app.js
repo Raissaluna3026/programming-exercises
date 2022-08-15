@@ -11,6 +11,6 @@ navToggle.addEventListener('click', function () {
     links.classList.add('show-links')
   }*/
 
-  //aqui em baixo outra maneira mais prática de mostrar os links ocultos
+  //aqui em baixo outra maneira mais prática de mostrar os links "ocultos"
   links.classList.toggle('show-links')
 })
